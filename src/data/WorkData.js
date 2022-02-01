@@ -6,7 +6,7 @@ export const Work = [
         description:"It is build on top of the React JS, with styledComponents for smooth scrolling animations.",
         tags:["react","styledComponents"],
         
-        demo:"#",
+        demo:"https://rakshithr.github.io",
         github:"https://github.com/rakshithr/react-portfolio"
     },
     // {
